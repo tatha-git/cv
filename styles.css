@@ -13,7 +13,10 @@ img{
 }
 h1{
     color: #51557E;
+    font-family: 'Brush Script MT', cursive;
 }
 h3{
     color: #4C3A51;
+    font-size: 20px;    
+    font-family: 'Merienda', cursive;
 }
